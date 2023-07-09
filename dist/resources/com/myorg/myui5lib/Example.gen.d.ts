@@ -1,9 +1,8 @@
+declare module "com/myorg/myui5lib/Example" {
 import Event from "sap/ui/base/Event";
 import { ExampleColor } from "com/myorg/myui5lib/library";
 import { PropertyBindingInfo } from "sap/ui/base/ManagedObject";
 import { $ControlSettings } from "sap/ui/core/Control";
-
-declare module "./Example" {
 
     /**
      * Interface defining the settings object used in constructor calls

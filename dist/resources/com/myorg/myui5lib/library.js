@@ -1,0 +1,2 @@
+"use strict";sap.ui.define(["sap/base/util/ObjectPath"],function(e){sap.ui.getCore().initLibrary({name:"com.myorg.myui5lib",version:"${version}",dependencies:["sap.ui.core"],types:["com.myorg.myui5lib.ExampleColor"],interfaces:[],controls:["com.myorg.myui5lib.Example"],elements:[],noLibraryCSS:false});const i=e.get("com.myorg.myui5lib");var o=function(e){e["Default"]="Default";e["Highlight"]="Highlight";return e}(o||{});i.ExampleColor=o;return i});
+//# sourceMappingURL=library.js.map

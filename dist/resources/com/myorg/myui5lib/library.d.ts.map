@@ -1,0 +1,1 @@
+{"version":3,"file":"library.d.ts","sourceRoot":"../../../../..","sources":["src/com/myorg/myui5lib/library.ts"],"names":[],"mappings":"AAAA,OAAO,QAAQ,4BAA4B,CAAC;IA6B5C,MAAM,OAAO,EAAE;QAAE,CAAC,GAAG,EAAE,MAAM,GAAG,OAAO,CAAA;KAAuE,CAAC;IAE/G;;;;;OAKG;IACH,MAAM,MAAM,YAAY;QACvB;;;WAGG;QACH,OAAO,YAAY;QAEnB;;;WAGG;QACH,SAAS,cAAc;KACvB;IAKD,eAAe,OAAO,CAAC;CAEtB"}

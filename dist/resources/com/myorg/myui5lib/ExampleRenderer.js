@@ -1,0 +1,2 @@
+"use strict";sap.ui.define(["sap/ui/core/Core","./library"],function(e,i){const r=i["ExampleColor"];var t={apiVersion:2,render:function(i,t){const o=e.getLibraryResourceBundle("com.myorg.myui5lib");i.openStart("div",t);if(t.getColor()===r.Highlight){i.class("myLibPrefixExampleHighlight")}else{i.class("myLibPrefixExample")}i.openEnd();i.text(`${o.getText("ANY_TEXT")}: ${t.getText()}`);i.close("div")}};return t});
+//# sourceMappingURL=ExampleRenderer.js.map
